@@ -1,0 +1,83 @@
+.imgage{
+    height:10px;
+    width: 10px;
+}
+
+ body{
+         
+         margin:0;
+        text-align: center;
+      
+     
+     }  
+    
+
+
+
+
+     h1{
+         margin margin-top: 0;
+        color: red;
+        
+     }
+h2{
+    
+    color: red;
+}
+
+h3{
+    
+    color: red;
+}
+     
+.top-container{ 
+         background-color:#ffd31d;
+         position: relative;
+         padding-top: 100px;
+        
+         
+     }
+
+  
+.bottom-cloud{
+    
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+}
+
+
+   
+.top-cloud{
+    position: absolute;
+        right:300px;
+    top:50px        
+}
+.pic{
+    border-radius: 50px;
+}
+
+.teddy{
+    
+    border-radius: 100px;
+}
+
+.both{
+    
+       border-radius: 100px;
+}
+.heart{
+    
+     border-radius: 100px;
+}
+
+hr{
+    color: blueviolet;
+ border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+        
+    width: 30px;
+    
+}
